@@ -1,0 +1,18 @@
+.area{
+    width: 40%;
+    height:320px;
+    margin: auto;
+    background-color: rgb(255, 149, 0);
+}
+.innerdiv{
+    /* border: 1px solid black; */
+    width: 65%;
+}
+.innerdiv>div,h1{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.innerdiv>div>p{
+    font-weight: bold;
+}
